@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <title>MySiteTitle</title>
+        <title>Kris Weather App</title>
         <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
         <link rel="apple-touch-icon" href="images/apple-touch-icon-iphone60x60.png">
         <link rel="apple-touch-icon" sizes="60x60" href="images/apple-touchicon-ipad-76x76.png">
